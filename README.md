@@ -17,3 +17,8 @@ Other review notes are available at:
 ## Certificate
 
 [My Course Certificate](Coursera%2046MFP45CUWMH.pdf)
+* [Neural Networks and Deep Learning](Coursera%20FCWY7CYQB2NF.pdf)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Coursera%205W8THZGVCB8S.pdf)
+* [Structuring Machine Learning Projects](Coursera%205KERL4G47XMJ.pdf)
+* [Convolutional Neural Networks](Coursera%207F48P94EUKRC.pdf)
+* [Sequence Models](Coursera%203EMN6QJTWNZY.pdf)
